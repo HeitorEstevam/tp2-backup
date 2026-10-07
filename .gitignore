@@ -1,0 +1,8 @@
+/build/
+/testes
+/backup_cli
+/*.gcov
+/html/
+/.venv/
+/hd/
+/pendrive/
